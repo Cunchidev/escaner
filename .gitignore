@@ -1,0 +1,28 @@
+# Local config — nunca ao repo
+local.properties
+
+# Build outputs
+build/
+app/build/
+.gradle/
+*.apk
+*.aab
+
+# Android Studio
+.idea/
+*.iml
+
+# Keystore
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude / AI
+.claude/
+CLAUDE.md
+
+# Kotlin build cache
+.kotlin/

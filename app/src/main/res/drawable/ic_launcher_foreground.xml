@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Unha folla coa esquina dobrada e a liña do escáner cruzándoa. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,32h20l10,10v32a2,2 0,0 1,-2 2H40a2,2 0,0 1,-2 -2V34a2,2 0,0 1,2 -2z" />
+    <path
+        android:fillColor="#B9CCE8"
+        android:pathData="M60,32l10,10H62a2,2 0,0 1,-2 -2z" />
+    <path
+        android:fillColor="#FFC400"
+        android:pathData="M31,52h46v4H31z" />
+</vector>
